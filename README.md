@@ -1,6 +1,6 @@
 # ShadowFox
 ## Matplotlib vs Seaborn
-## Overview
+### Overview
 Visualization is not just about making pretty graphics; it's a fundamental aspect of data science that allows us to understand complex data sets and communicate findings effectively. a well-crafted visualization can reveal insights that tables of numbers cannot, making it a powerful tool for analysis and decision-making.
 Becoming proficient in data visualization tools and techniques is crucial for any data scientist. This task will deepen our understanding of python's visualization landscape and improve our ability to present data in a clear, informative manner.
 ### Objective
